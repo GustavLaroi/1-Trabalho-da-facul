@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resíduos Nucleares - Informações Seguras e Verdadeiras</title>
+    <link rel="stylesheet" href="cssfoda.css">
+</head>
+<body>
+    <header>
+        <h1>Resíduos Nucleares</h1>
+        <nav>
+            <ul>
+                <li><a href="#o-que-sao">O que são</a></li>
+                <li><a href="#armazenamento">Armazenamento</a></li>
+                <li><a href="#impacto-ambiental">Impacto Ambiental</a></li>
+                <li><a href="#seguranca">Segurança</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="o-que-sao">
+            <h2>O que são Resíduos Nucleares?</h2>
+			
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/YvwmzdoJPAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			
+            <p>Os resíduos nucleares(ou "lixo nuclear") é um tipo de lixo extremante prejudicial à saúde levando a pessoa que foi exposta a ele contrair câncer ou levá-la a óbito. O lixo radioativo advém de atividades nucleares que ocorrem em hospitais, usinas nucleares e centros de pesquisas. Devido ao seu grande risco para população, o seu descarte deve ser feito com cuidado e por profissionais da área para ser o mais eficiente e seguro possível apesar de alguns países terem seus métodos para isso a Agência Internacional de Energia Atómica (IAEA) estabelece alguns padrões a serem seguidos. O elemento mais utilizado é o Urânio mas também há outros elementos como: o plutônio, césio, estróncio iodo e o criptônio.
+</p>
+        </section>
+        <section id="armazenamento">
+            <h2>Armazenamento de Resíduos Nucleares</h2>
+            <p>O armazenamento de resíduos nucleares é um processo complexo e rigoroso que envolve várias etapas, incluindo acondicionamento, transporte e disposição final. O objetivo é garantir que os resíduos sejam armazenados de forma segura e eficiente, minimizando os riscos para a saúde humana e o meio ambiente.</p>
+        </section>
+        <section id="impacto-ambiental">
+            <h2>Impacto Ambiental dos Resíduos Nucleares</h2>
+            <p>Se não forem gerenciados corretamente, os resíduos nucleares podem ter impactos negativos no meio ambiente e na saúde humana. A exposição à radiação ionizante pode causar doenças, como câncer e defeitos congênitos. Além disso, o vazamento de resíduos radioativos pode contaminar o solo, a água e o ar, afetando a flora e a fauna locais.</p>
+        </section>
+        <section id="seguranca">
+            <h2>Segurança no Gerenciamento de Resíduos Nucleares</h2>
+            <p>A segurança é uma prioridade no gerenciamento de resíduos nucleares. Organizações internacionais, como a Agência Internacional de Energia Atômica (AIEA), estabelecem diretrizes e normas rigorosas para garantir que os resíduos sejam gerenciados e armazenados de forma segura. Além disso, governos e órgãos reguladores nacionais são responsáveis por fiscalizar e garantir a conformidade com as normas estabelecidas.</p>
+        </section>
+		
+		<section id="Perigos">
+		<h2>Perigos dos Resíduos Nucleares</h2>
+		<p>Como dito anteriormente a exposição aos lixos nucleares podem causar câncer ou matá-la porém não só isso como pode causar outras doenças: anemia, catarata, leucemia, infecções, hemorragia, problemas circulatórios e problemas respiratórios. Isso acontece porque a radiação pode destruir as células no organismo pelo calor ou ionizar e fragmentar as células. Quando a radiação entra em contato com a pele pode queimar muito mais do que quando exposta ao Sol, pois as células da epiderme estão sendo destruídas pelo calor.  A ionização celular ocorre quando partículas radioativas atingem as células de nosso corpo e as transformam em íons. Este processo enfraquece as ligações celulares, estas se rompem, causando a destruição ou mutação das células. Sendo prejudicial aos seres humanos também seria para o ecossistema, como o resíduo gerado é tóxico el contamina a fauna e a flora de um ambiente, assim contaminando as águas, a atmosfera e causando danos permanentes aos animais da região. </p>
+			
+			<section id="Erros-no-descarte-dos-resíduos">
+			<h2>Erros no descarte</h2>
+			
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/gCcTxnvZb-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			
+			<p>Um ótimo exemplo de erros no processo de descarte de lixo radioativo é o caso "Césio 137 O Brilho da Morte", ocorrido em Goiânia, capital de Goiás. Ocorreu em setembro de 1987, quando dois catadores de lixo Roberto dos Santos e Wagner Mota encontraram um aparelho de radioterapia abandonado em um local onde antes era uma das unidades do Instituto Goiano de Radioterapia.
+Os catadores levaram partes da máquina com o intuito de vender e , assim fizeram, venderam partes da máquina para um ferro-velho. Ao desmontar a máquina eles encontram uma cápsula de césio conetndo 19g( fonte de energia da máquina), o dono do local Devai Alves Ferreira ficou muito interessado no achado pois em ambientes escuros emitia uma luz azulada então o levou para casa para mostrar a sua família e amigos, expondo-os totalmente a radiação.
+Depois de um tempo todos que tiveram contato acabaram contraindo algum tipo de doença e mal-estar. Um dos casos fatais foi da filha do irmão de Devair, Leide das Neves Ferreira pois quando seu irmão Ivo leva a substância para casa logo vira um brinquedo na mão da criança, que ingeriu alimento sem lavar as mão após contato com o  Césio-137.
+No dia 29 de setembro de 1987 a esposa de Devair, levou a a cápsula que continha o Césio-137 para Divisão de Vigilância Sanitária da Secretaria Estadual de Saúde, pois achava que os acontecimentos recentes em sua família eram decorrentes daquilo. Com isso foi identificado que a substância era radioativa, e toda essa tragédia causada por um descuido na fiscalização do lixo radioativo do Instituto.</p>
+			
+			<section id="Classificação">
+			<h2>Classificação dos resíduos nucleares</h2>
+			<p> Antes de se iniciar o processo de descarte do lixo primeiramente ele é classificado:</p>
+			
+			<h3>Lixo de baixa radioatividade</h3>
+			<p>Conhecido como LLW (Low Level Waste) que representa cerca de 90% de todo lixo produzido, são os materiais que tiveram contato com material radioativo contendo até 1% de radioatividade. Exemplos desse lixo seriam ferramentas, roupas de proteção, luvas , sapatilhas e material de laboratório.</p>
+			
+			<h4>Lixo de média radioatividade</h4>
+			<p>Conhecido como ILW (Intermediate Level Waste) que representa cerca de 7% de todo lixo produzido, são materiais usados como filtros, recipientes usados de combustível nuclear, componentes de aço de dentro do reator e resíduos sólidos dos processos de mineração e enriquecimento de urânio, contendo até 4% de radioatividade.</p>
+			
+			<h5>Lixo de alta radioatividade</h5>
+			<p>Conhecido como HLW (High Level Waste) que representa cerca de 3% do lixo produzido, é composto por combustíveis nucleares usados como pastilhas de urânio, e e rejeitos líquidos vindos da extração de plutônio pra fabricação de bombas nucleares, contendo cerca de 95%de radioatividade.</p>
+
+		<section id="Descarte">
+		<h2>Descarte dos resíduos</h2>
+		
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/leVycPfVEgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		
+		<p>Resíduos radioativos possuem diferentes destinos de acordo com sua classificação de alta, média ou baixa radioatividade. Os resíduos de média e baixa radioatividade são armazenados em depósitos subterrâneos, sejam eles provisórios ou permanentes, localizados em institutos de energia.
+
+Por outro lado, os resíduos altamente perigosos necessitam de um sistema de gerenciamento que garanta seu encapsulamento e confinamento por longos períodos. Alguns desses materiais perde sua radioatividade ao longo do tempo por meio do processo de decaimento radioativo, determinado pela meia-vida radioativa alguns podem ter uma vida radioativa de milhares de anos, embora sua radioatividade diminua com o tempo. Para isso, esses resíduos são armazenados em piscinas de resfriamento protegidas por camadas espessas de aço, chumbo e concreto.
+
+Os resíduos das usinas nucleares devem ser enterrados por no mínimo 10.000 anos, garantindo seu isolamento seguro até que deixem de emitir radiação. Outras formas de tratamento incluem o armazenamento no local de produção ou em locais especiais, especialmente para materiais nucleares mais perigosos, que são selados em recipientes de vidro e posteriormente em tambores apropriados antes do isolamento.
+
+ Os resíduos de baixa meia-vida são armazenados temporariamente e, posteriormente, descartados em áreas apropriadas. Já os resíduos de alto nível, principalmente combustível usado, são mantidos em instalações de armazenamento úmido ou seco para dissipar parte de seu calor e radioatividade. Além do armazenamento, o lixo nuclear pode ser reciclado ou selado em recipientes e transferido para túneis vedados com pedra e argila como parte de seu descarte.
+
+Embora cada classificação de resíduo radioativo tenha um destino específico, é importante ressaltar que esses materiais são altamente tóxicos, o que torna os locais de descarte não totalmente seguros. Locais afetados pela poluição nuclear são impróprios para habitação, e a dissipação desses resíduos pode levar de cinco a dez décadas.
+
+Por isso é crucial considerar a construção de depósitos que não dependam da intervenção humana para funcionar e que sejam imunes a possíveis abalos sísmicos que possam ocorrer no futuro, como terremotos e tsunamis, a fim de garantir a segurança a longo prazo.
+
+Atualmente, nenhum país possui uma estrutura desse tipo, mas a Finlândia está se aproximando desse objetivo. O projeto conhecido como "Onkalo" é o primeiro depósito permanente de lixo nuclear do mundo e ainda está em fase de construção. Suas características incluem uma previsão de durabilidade de 100 mil anos e uma rede de túneis com extensão de 35 quilômetros.</p>
+			
+			
+			
+			</form>
+		</section>
+
+	</main>
+    </main>
+    <footer>
+        <p>&copy; 2023 Resíduos Nucleares - Gustavo, Matheus, Davi, Clarissa, Léo e Roni.</p>
+    </footer>
